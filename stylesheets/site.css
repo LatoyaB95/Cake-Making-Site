@@ -1,0 +1,58 @@
+h1{
+    font-family: 'lobster', cursive;
+    color:white;
+    text-align: center;
+    background-color: #ff6b81;
+}
+h2{
+    font-family: 'lobster', cursive;
+    color:white;
+    text-align: center;
+    background-color: #ff6b81; 
+}
+p{
+    font-family: 'poppins', sans-serif;
+    color: black;
+    text-align: center;
+}
+h4{
+    font-family: 'dancing script', cursive;
+    color: chocolate;
+    text-align: center;
+}
+.image-box {
+    display: inline-block; 
+    text-align: center; 
+    margin: 10px; 
+}
+
+.image-box img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
+.navbar {
+    position: fixed; /* Stays at the top */
+    top: 0; /* Aligns to the top of the page */
+    left: 0;
+    width: 100%; /* Makes it full-width */
+    background-color: #ffcccb; /* Light pink (change as needed) */
+    padding: 15px 0; /* Space inside the navbar */
+    text-align: center; /* Centers text */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Adds a slight shadow */
+    z-index: 1000; /* Ensures it stays above other content */
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333; /* Dark text */
+    font-size: 18px;
+    margin: 0 15px; /* Space between links */
+}
+.header {
+    text-align: center; /* Centers the website name */
+    font-size: 30px; /* Adjusts text size */
+    font-weight: bold; /* Makes it bold */
+    padding: 15px 0; /* Adds spacing */
+    background-color: #fff5e1; /* Light background (optional) */
+}
