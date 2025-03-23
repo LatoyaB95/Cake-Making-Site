@@ -96,7 +96,7 @@ h4 {
 table {
     border-collapse: separate;
     border-spacing: 15px; 
-};
+}
 .about-main {
     max-width: 900px;
     margin: auto;
@@ -119,4 +119,4 @@ table {
 .about-text {
     max-width: 600px;
     
-}
+};
